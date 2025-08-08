@@ -1,4 +1,4 @@
-**[🌊 Welcome to Creek](https://docs.creek.finance)**
+**[🌊 Welcome to Creek](https://docs.creek.finance "Creek docs")**
 
 Creek is a pioneering Real-World Asset Finance ecosystem that transforms gold into optimized decentralized finance primitives, delivering both stability and yield potential.
 
